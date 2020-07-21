@@ -33,6 +33,7 @@
 				<div class="title">{{title}}</div>
 				<div class="price">{{price}}</div>
 				<div class="content">{{content}}</div>
+				<div class=""></div>
 			</div>
 		{{/each}}
 	</script>
